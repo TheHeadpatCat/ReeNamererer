@@ -1,4 +1,4 @@
-# Pseudonamingway
+# ReeNamererer
 
 Lets you rename any NPC in the game. (Currently only supports Nameplates)
 
