@@ -8,7 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReeNamererer", "Pseudonamingway\ReeNamererer.csproj", "{CCB04E7E-B5FF-7679-3E0C-AB9053F7A1EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReeNamererer", "ReeNamererer\ReeNamererer.csproj", "{CCB04E7E-B5FF-7679-3E0C-AB9053F7A1EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
