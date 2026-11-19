@@ -1,0 +1,10 @@
+{
+	"Author": "sourpuh - Edited by TheHeadpatcat",
+	"Name": "ReeNamererer",
+	"Punchline": "Lets you change NPC Names.",
+	"Description": "Change NPC Names to something else.",
+	"InternalName": "ReeNamererer",
+	"RepoUrl": "https://github.com/sourpuh/ffxiv_pseudonamingway",
+	"ApplicableVersion": "any",
+	"Tags": ["rename"]
+}
