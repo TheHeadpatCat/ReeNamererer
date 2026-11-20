@@ -4,7 +4,7 @@
 	"Punchline": "Lets you change NPC Names.",
 	"Description": "Change NPC Names to something else.",
 	"InternalName": "ReeNamererer",
-	"RepoUrl": "https://github.com/sourpuh/ffxiv_pseudonamingway",
+	"RepoUrl": "https://github.com/TheHeadpatCat/ReeNamererer",
 	"ApplicableVersion": "any",
 	"Tags": ["rename"]
 }
